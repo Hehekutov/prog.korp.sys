@@ -1,0 +1,7 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\CALCULATE\bin\Debug\CALCULATE.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\CALCULATE\bin\Debug\CALCULATE.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\CALCULATE\bin\Debug\CALCULATE.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\CALCULATE\obj\Debug\CALCULATE.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\CALCULATE\obj\Debug\CALCULATE.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\CALCULATE\obj\Debug\CALCULATE.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\CALCULATE\obj\Debug\CALCULATE.pdb
