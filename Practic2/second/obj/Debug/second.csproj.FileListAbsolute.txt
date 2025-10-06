@@ -1,0 +1,7 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\second\bin\Debug\second.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\second\bin\Debug\second.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\second\bin\Debug\second.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\second\obj\Debug\second.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\second\obj\Debug\second.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\second\obj\Debug\second.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\second\obj\Debug\second.pdb

@@ -1,0 +1,7 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fifth\bin\Debug\fifth.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fifth\bin\Debug\fifth.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fifth\bin\Debug\fifth.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fifth\obj\Debug\fifth.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fifth\obj\Debug\fifth.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fifth\obj\Debug\fifth.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fifth\obj\Debug\fifth.pdb

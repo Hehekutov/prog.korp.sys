@@ -1,0 +1,7 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fourth\bin\Debug\fourth.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fourth\bin\Debug\fourth.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fourth\bin\Debug\fourth.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fourth\obj\Debug\fourth.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fourth\obj\Debug\fourth.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fourth\obj\Debug\fourth.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\fourth\obj\Debug\fourth.pdb

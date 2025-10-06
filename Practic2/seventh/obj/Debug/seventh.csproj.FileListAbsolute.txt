@@ -1,0 +1,7 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\seventh\bin\Debug\seventh.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\seventh\bin\Debug\seventh.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\seventh\bin\Debug\seventh.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\seventh\obj\Debug\seventh.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\seventh\obj\Debug\seventh.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\seventh\obj\Debug\seventh.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\seventh\obj\Debug\seventh.pdb

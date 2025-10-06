@@ -1,0 +1,7 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\third\bin\Debug\third.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\third\bin\Debug\third.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\third\bin\Debug\third.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\third\obj\Debug\third.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\third\obj\Debug\third.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\third\obj\Debug\third.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\third\obj\Debug\third.pdb

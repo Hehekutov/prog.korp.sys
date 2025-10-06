@@ -1,0 +1,5 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\calendar\obj\Debug\calendar.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\calendar\obj\Debug\MainWindow.g.cs
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\calendar\obj\Debug\App.g.cs
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\calendar\obj\Debug\calendar_MarkupCompile.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\calendar\obj\Debug\calendar_MarkupCompile.lref

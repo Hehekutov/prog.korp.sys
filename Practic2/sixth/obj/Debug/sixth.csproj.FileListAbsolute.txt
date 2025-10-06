@@ -1,0 +1,7 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\sixth\bin\Debug\sixth.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\sixth\bin\Debug\sixth.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\sixth\bin\Debug\sixth.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\sixth\obj\Debug\sixth.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\sixth\obj\Debug\sixth.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\sixth\obj\Debug\sixth.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\sixth\obj\Debug\sixth.pdb

@@ -1,0 +1,7 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\first\bin\Debug\first.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\first\bin\Debug\first.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\first\bin\Debug\first.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\first\obj\Debug\first.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\Practic2\first\obj\Debug\first.pdb

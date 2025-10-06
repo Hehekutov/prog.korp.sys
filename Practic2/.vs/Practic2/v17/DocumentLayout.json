@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E87E3-8A52-4D47-A6CB-016976D732F1}|first\\first.csproj|c:\\users\\21041\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\practic2\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E87E3-8A52-4D47-A6CB-016976D732F1}|first\\first.csproj|solutionrelative:first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF82900-69DB-4C4E-914C-462B33DF1981}|second\\second.csproj|c:\\users\\21041\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\practic2\\second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF82900-69DB-4C4E-914C-462B33DF1981}|second\\second.csproj|solutionrelative:second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F4EF36-AB26-41F8-A018-335E58A2EC41}|third\\third.csproj|c:\\users\\21041\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\practic2\\third\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F4EF36-AB26-41F8-A018-335E58A2EC41}|third\\third.csproj|solutionrelative:third\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E795DF-E021-41B8-9876-1B0D2835156E}|fourth\\fourth.csproj|c:\\users\\21041\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\practic2\\fourth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E795DF-E021-41B8-9876-1B0D2835156E}|fourth\\fourth.csproj|solutionrelative:fourth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0F1D3A-E433-4096-BDFF-7FF5EDF08894}|fifth\\fifth.csproj|c:\\users\\21041\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\practic2\\fifth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0F1D3A-E433-4096-BDFF-7FF5EDF08894}|fifth\\fifth.csproj|solutionrelative:fifth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1282812-AB0D-4565-98B2-368D1B5477C2}|seventh\\seventh.csproj|c:\\users\\21041\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\practic2\\seventh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1282812-AB0D-4565-98B2-368D1B5477C2}|seventh\\seventh.csproj|solutionrelative:seventh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE95622-6975-475D-B483-3E6B453E6854}|sixth\\sixth.csproj|c:\\users\\21041\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\practic2\\sixth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE95622-6975-475D-B483-3E6B453E6854}|sixth\\sixth.csproj|solutionrelative:sixth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\seventh\\Program.cs",
+              "RelativeDocumentMoniker": "seventh\\Program.cs",
+              "ToolTip": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\seventh\\Program.cs",
+              "RelativeToolTip": "seventh\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:02:35.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\sixth\\Program.cs",
+              "RelativeDocumentMoniker": "sixth\\Program.cs",
+              "ToolTip": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\sixth\\Program.cs",
+              "RelativeToolTip": "sixth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:00:53.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\fifth\\Program.cs",
+              "RelativeDocumentMoniker": "fifth\\Program.cs",
+              "ToolTip": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\fifth\\Program.cs",
+              "RelativeToolTip": "fifth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:58:03.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\fourth\\Program.cs",
+              "RelativeDocumentMoniker": "fourth\\Program.cs",
+              "ToolTip": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\fourth\\Program.cs",
+              "RelativeToolTip": "fourth\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:55:21.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\third\\Program.cs",
+              "RelativeDocumentMoniker": "third\\Program.cs",
+              "ToolTip": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\third\\Program.cs",
+              "RelativeToolTip": "third\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:51:00.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\second\\Program.cs",
+              "RelativeDocumentMoniker": "second\\Program.cs",
+              "ToolTip": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\second\\Program.cs",
+              "RelativeToolTip": "second\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:36:33.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\first\\Program.cs",
+              "RelativeDocumentMoniker": "first\\Program.cs",
+              "ToolTip": "C:\\Users\\21041\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\prog.korp.sys\\Practic2\\first\\Program.cs",
+              "RelativeToolTip": "first\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:33:58.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
