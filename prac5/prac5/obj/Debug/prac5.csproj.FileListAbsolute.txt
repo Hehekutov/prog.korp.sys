@@ -1,0 +1,8 @@
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\prac5\prac5\bin\Debug\prac5.exe.config
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\prac5\prac5\bin\Debug\prac5.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\prac5\prac5\bin\Debug\prac5.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\prac5\prac5\obj\Debug\prac5.csproj.AssemblyReference.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\prac5\prac5\obj\Debug\prac5.csproj.CoreCompileInputs.cache
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\prac5\prac5\obj\Debug\prac5.exe
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\prac5\prac5\obj\Debug\prac5.pdb
+C:\Users\21041\OneDrive\Рабочий стол\prog.korp.sys\prac5\prac5\obj\Debug\prac5.exe.config
